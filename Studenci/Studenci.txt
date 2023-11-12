@@ -1,0 +1,7 @@
+1 Jakub Kowalski 3 4 3
+2 Andrzej Grabczyk 2 3 4
+3 Stefan Nowak 4 5 5
+0 0 0 0 0 0 
+4 Bartosz Bob 4 5 3
+5 Robert Kasztan 4 3 5
+0 0 0 0 0 0
